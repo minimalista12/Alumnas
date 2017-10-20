@@ -1,0 +1,49 @@
+body{
+	color: gray;
+	font-size: 21px;
+	background-image: 150px;}
+
+div {
+	width: 150px;
+	height: 170px;
+	background: 100%;
+	display:inline-block;
+	filter:grayscale(100%);
+}
+
+
+#bb1{background-image: url(../img/alumna2.jpg);
+	 background-size: 101%;
+}
+
+#bb2{background-image: url(../img/alumna1.jpg);
+     background-size: 101%;
+ }
+
+ #bb3{background-image: url(../img/alumna3.jpg);
+ 	  background-size: 101%;
+
+ }
+
+ #bb4{background-image: url(../img/CUB1lJEU8AM6TCM.jpg);
+ 	  background-size: 101%;
+ }
+
+ #bb5{background-image: url(../img/kkk.jpeg);
+ 	  background-size: 101%;
+ }
+
+ 
+#bb6{background-image: url(../img/1506282828107.jpeg); 
+     background-size: 101%}
+
+
+
+div:hover {
+	color: black;
+	font-style: bold;
+	width: 310px;
+	height: 280px;
+	filter:none;
+}
+
